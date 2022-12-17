@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Dropper : MonoBehaviour
 {
-    MeshRenderer myRenderer;
+    MeshRenderer myRenderer; //Vasha coda
     Rigidbody myRigidbody;
     [SerializeField] float timeToWait = 10f;
 
